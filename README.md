@@ -1,5 +1,5 @@
 # Smart Environment Monitoring and Control System
-implemented with Hussein mohammed
+implemented with Hussein Mohammad in 2024
 
 An IoT-based solution that automates monitoring and control of indoor air quality, temperature, and humidity using microcontrollers, sensors, actuators, and AWS cloud services.
 
